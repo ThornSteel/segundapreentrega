@@ -1,0 +1,11 @@
+    { "arrayProductos":  [     
+    { "id": 1, "nombre": "Notebook", "precio": 1.119, "img": "../../public/producto1.jpg", "categoria": "Notebook","stock":10, "descripcion":"Lenovo Legion 5 15ACH6A WQHD 2K 15.6 R5 5600H 16GB (2x8GB) 512GB SSD NVME RX6600M 8GB W11 165Hz Silver" },
+    { "id": 2, "nombre": "Procesador", "precio": 309.9, "img": "../../public/producto2.jpg", "categoria": "Procesador","stock":10, "descripcion":"Intel Core i5 14400F 4.7GHz Turbo Socket 1700 Raptor Lake" },
+    { "id": 3, "nombre": "Memoria RAM ", "precio": 279.9, "img": "../../public/producto3.jpg", "categoria": "Ram","stock":10, "descripcion":"Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 Black" },
+    { "id": 4, "nombre": "Placa de Video", "precio": 185.4, "img": "../../public/producto4.jpg", "categoria": "PlacaVideo","stock":10, "descripcion":"XFX Radeon RX 580 8GB GDDR5 GTS 2048SP" },
+    { "id": 5, "nombre": "Fuente", "precio": 123.55, "img": "../../public/producto5.jpg", "categoria": "Fuente","stock":10, "descripcion":"Cougar 750W 80 Plus Gold GEC750"}
+    ]}
+
+
+
+
